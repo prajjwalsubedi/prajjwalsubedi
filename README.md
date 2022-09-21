@@ -16,11 +16,13 @@
 - 📫 How to reach me **prajjwalsubedi95@gmail.com**
 
 - ⚡ Fun fact **I am an Tax Accountant and I am learning programming.**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajjwalsubedi&show_icons=true&locale=en&layout=compact" alt="prajjwalsubedi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwalsubedi&show_icons=true&locale=en" alt="prajjwalsubedi" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalsubedi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalsubedi&" alt="prajjwalsubedi" /></p>
+
+![Prajjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajjwalsubedi&show_icons=true&theme=radical)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajjwalsubedi&theme=radical)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
