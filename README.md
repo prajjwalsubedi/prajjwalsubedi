@@ -22,7 +22,7 @@
 
 ![Prajjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajjwalsubedi&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajjwalsubedi&theme=radical)](https://helllo/streak-stats)
+[![Prajjwal'sStreak](http://github-readme-streak-stats.herokuapp.com?user=prajjwalsubedi&theme=radical)](https://www.facebook.com/prajjwalsubedi95)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
