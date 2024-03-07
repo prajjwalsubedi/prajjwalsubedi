@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Subedi</h1>
-<h3 align="center">A passionate python developer from Nepal</h3>
+<h3 align="center">A passionate QA Tester from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsubedi" /> </p>
 
@@ -7,15 +7,15 @@
  
  </div>
 
-- 🌱 I’m currently learning **Python, Django, JS**
+- 🌱 I’m currently learning **Java, Selenium, Agile>Scrum, Python, Django, JS**
 
-- 👯 I’m looking to collaborate on **any python projects**
+- 👯 I’m looking to collaborate on **any Web projects**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Java, Selenium, Agile>Scrum, Python, Django**
 
 - 📫 How to reach me **prajjwalsubedi95@gmail.com**
 
-- ⚡ Fun fact **I am an Tax Accountant and I am learning programming.**
+- ⚡ Fun fact **I am an Tax Accountant and I am learning programming and prefer to go to QA Tester.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalsubedi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
