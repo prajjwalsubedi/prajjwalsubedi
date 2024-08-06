@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **prajjwalsubedi95@gmail.com**
 
-- ⚡ Fun fact **I am an Tax Accountant and I am learning programming and prefer to go to QA Tester.**
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalsubedi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
