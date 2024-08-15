@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Subedi</h1>
-<h3 align="center">A passionate QA Tester from Nepal</h3>
+<h3 align="center">A passionate QA Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsubedi" /> </p>
 
@@ -7,7 +7,7 @@
  
  </div>
 
-- 🌱 I’m currently learning **Java, Selenium, Agile>Scrum, Python, Django, JS**
+- 🌱 I’m currently Working on **Java, Selenium, Agile>Scrum, Python, Django, JS**
 
 - 👯 I’m looking to collaborate on **any Web projects**
 
